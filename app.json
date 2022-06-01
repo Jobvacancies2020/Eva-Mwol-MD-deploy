@@ -3,9 +3,9 @@
     "description": "multi device based WhatsApp Public/User bot.",
     "logo": "https://i.imgur.com/dD3QowW.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Evamwol", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "repository": "https://github.com/Jobvacancies2020/Eva-mwol-MD",
+    "website":   "https://youtube.com/c/NSproGAMERSYT1",
+    "success_url": "https://youtube.com/channel/UCViQQwHBVDKp_C8kiy74R6Q",
     "stack": "container",
     "env": {
         "USERNAME": {
